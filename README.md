@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Mishel Morales
 
-GitHub followers: 8
-
 ---
 
 ### 💡 Sobre mí
