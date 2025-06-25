@@ -6,7 +6,6 @@
 
 💻 Soy desarrolladora fullstack.  
 🌱 Actualmente estoy aprendiendo Desarrollo Web.
-📫 Puedes contactarme en: mmejiam1825@gmail.com
 
 ---
 
@@ -16,21 +15,22 @@
 - CSS3
 - JavaScript
 - Git
+- React
 
 ---
 
 ### 🧠 Últimos proyectos
 
-- Proyecto 1: Nombre del Proyecto 1 – Tienda en línea.
-- Proyecto 2: Nombre del Proyecto 2 – Sitio personal con portafolio y blog.
+- Proyecto 1: Tienda en línea.
+- Proyecto 2: Sitio personal con portafolio y blog.
+- Proyecto 3: Sistema de Turnos para una Clínica Médica.
 
 ---
 
 ### 📫 ¡Conectemos!
 
-Correo: mmejiam1825@gmail.com 
-LinkedIn: MishelMejia
-Twitter: @MishelMorales
+📧 Correo: mmejiam1825@gmail.com 
+💼 LinkedIn: MishelMejia
 
 ---
 
