@@ -16,6 +16,8 @@
 - JavaScript
 - Git
 - React
+- TypeScript
+- Redux
 
 ---
 
@@ -29,8 +31,7 @@
 
 ### 📫 ¡Conectemos!
 
-📧 Correo: mmejiam1825@gmail.com 
-💼 LinkedIn: MishelMejia
+📧 Correo: mmejiam1825@gmail.com
 
 ---
 
