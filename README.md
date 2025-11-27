@@ -18,6 +18,10 @@
 - React
 - TypeScript
 - Redux
+- Tailwind CSS
+- MySQL
+- Node JS
+- Express
 
 ---
 
@@ -26,6 +30,7 @@
 - Proyecto 1: Tienda en línea.
 - Proyecto 2: Sitio personal con portafolio y blog.
 - Proyecto 3: Sistema de Turnos para una Clínica Médica.
+- Proyecto 4: Sistema de Inventario.
 
 ---
 
