@@ -4,8 +4,7 @@
 
 ### 💡 Sobre mí
 
-💻 Soy desarrolladora fullstack.  
-🌱 Actualmente estoy aprendiendo Desarrollo Web.
+💻 Soy desarrolladora fullstack con conocimientos en Frontend y Backend.
 
 ---
 
@@ -17,7 +16,7 @@
 - Git
 - React
 - TypeScript
-- Redux
+- Redux Toolkit
 - Tailwind CSS
 - MySQL
 - Node JS
